@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:lts
+FROM jenkins/jenkins:2.194
 MAINTAINER jos@hendriks.software
 USER root
 
