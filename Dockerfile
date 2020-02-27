@@ -1,5 +1,5 @@
-FROM jenkins/jenkins:2.194
-MAINTAINER jos@hendriks.software
+FROM jenkins/jenkins:2.222
+MAINTAINER jos@hendriks.dev
 USER root
 
 # Install the latest Docker CE binaries
